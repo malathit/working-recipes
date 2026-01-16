@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/working-recipes/static/css/main.543c0df9.css",
+    "main.js": "/working-recipes/static/js/main.183558f8.js",
+    "index.html": "/working-recipes/index.html",
+    "main.543c0df9.css.map": "/working-recipes/static/css/main.543c0df9.css.map",
+    "main.183558f8.js.map": "/working-recipes/static/js/main.183558f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.543c0df9.css",
+    "static/js/main.183558f8.js"
+  ]
+}
